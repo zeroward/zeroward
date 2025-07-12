@@ -1,7 +1,5 @@
 # Head Cheesemonger
-
-Hi there, I'm Derek! 👋
-I'm a seasoned offensive cyber warfare operator and developer that specializes in automating the boring things. I have experience in building command and control pipelines, integrating LLMs into operational environments, and breaking things.  
+I'm a seasoned offensive cyber warfare specialist and developer that specializes in automating the boring things. I have experience in building command and control pipelines, integrating LLMs into operational environments, and breaking things.  
 ## About Me  
 * I’m currently working on: Building robust data pipelines & experimenting with cutting-edge AI models.
 * I’m continuously learning: Advanced machine learning techniques, big data frameworks, and cloud-native development.
